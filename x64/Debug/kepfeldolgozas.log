@@ -1,4 +1,4 @@
 ﻿  main.cpp
-C:\Users\Gergő\source\repos\kepfeldolgozas\kepfeldolgozas\main.cpp(109,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Gergő\source\repos\kepfeldolgozas\kepfeldolgozas\main.cpp(113,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Gergő\source\repos\kepfeldolgozas\kepfeldolgozas\main.cpp(93,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gergő\source\repos\kepfeldolgozas\kepfeldolgozas\main.cpp(97,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   kepfeldolgozas.vcxproj -> C:\Users\Gergő\source\repos\kepfeldolgozas\x64\Debug\kepfeldolgozas.exe
